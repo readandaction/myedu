@@ -2,9 +2,8 @@
 
 For self-education. pronounce  with dictionary site, 토론, 논술
 
-- users = users : 성별, 생일, 
-- rooms = articles :
-- reservations = X
-- conversations = conversations
-- lists = my book list
-- reviews =  reviews
+
+1. initial Model
+[] - users = users : 성별, 생일
+[] - books : title, text
+[] - words : name, pronounce, meaning
